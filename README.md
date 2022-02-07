@@ -1,7 +1,7 @@
 # DH Movies dashboard 
 
 ## Objetivo:
-App creada con React que usa la API de películas  omdbapi (https://www.omdbapi.com/), trae la información a un buscador. Se utiliza React-router-dom (version 5.2.0).
+App creada con React que usa la API de películas omdbapi (https://www.omdbapi.com/), para traer la información a un buscador. Se utilizan hooks (useEffect y useState) y React-router-dom (version 5.2.0).
 
 ## Tecnologías usadas
 <p align="left">
